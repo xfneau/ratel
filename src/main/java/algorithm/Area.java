@@ -4,7 +4,10 @@ import java.util.Scanner;
 
 /**
  * 多边形面积
- * @author Administrator
+ * @author neau
+ * 
+ * 
+ * 
  *
  */
 public class Area {
